@@ -1,0 +1,767 @@
+[
+  {
+    "id": "world-capitals-eu-001",
+    "categoryKey": "europe",
+    "difficulty": 3,
+    "prompt": "Switzerland has no de jure capital in its constitution. Which city is designated its \"federal city\" (Bundesstadt), hosting the government and parliament?",
+    "options": [
+      { "key": "A", "text": "Zürich" },
+      { "key": "B", "text": "Geneva" },
+      { "key": "C", "text": "Lausanne" },
+      { "key": "D", "text": "Bern" }
+    ],
+    "correctKey": "D",
+    "explanation": "Switzerland deliberately names no capital; Bern is the *Bundesstadt* (federal city) where the Federal Assembly and Federal Council sit. Zürich is the largest city and financial hub, Geneva hosts international organisations, and Lausanne is home to the Federal Supreme Court — but none is the capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["switzerland", "no-official-capital"]
+  },
+  {
+    "id": "world-capitals-eu-002",
+    "categoryKey": "europe",
+    "difficulty": 4,
+    "prompt": "Which city is the capital of Slovakia — frequently confused with the capital of Slovenia?",
+    "options": [
+      { "key": "A", "text": "Ljubljana" },
+      { "key": "B", "text": "Bratislava" },
+      { "key": "C", "text": "Zagreb" },
+      { "key": "D", "text": "Brno" }
+    ],
+    "correctKey": "B",
+    "explanation": "Bratislava is Slovakia's capital, on the Danube near the Austrian and Hungarian borders. Ljubljana is the capital of Slovenia — the two countries' similar names cause endless mix-ups. Zagreb is Croatia's capital and Brno is the Czech Republic's second city.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["slovakia", "confused-pair"]
+  },
+  {
+    "id": "world-capitals-eu-003",
+    "categoryKey": "europe",
+    "difficulty": 3,
+    "prompt": "What is the administrative capital of Montenegro?",
+    "options": [
+      { "key": "A", "text": "Podgorica" },
+      { "key": "B", "text": "Cetinje" },
+      { "key": "C", "text": "Nikšić" },
+      { "key": "D", "text": "Tirana" }
+    ],
+    "correctKey": "A",
+    "explanation": "Podgorica is Montenegro's administrative capital and largest city. Cetinje is the country's designated \"Old Royal Capital\" (prijestonica) and holds ceremonial status, but the government sits in Podgorica. Tirana is the capital of neighbouring Albania.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["montenegro"]
+  },
+  {
+    "id": "world-capitals-eu-004",
+    "categoryKey": "europe",
+    "difficulty": 4,
+    "prompt": "What is the capital of Liechtenstein?",
+    "options": [
+      { "key": "A", "text": "Schaan" },
+      { "key": "B", "text": "Triesen" },
+      { "key": "C", "text": "Balzers" },
+      { "key": "D", "text": "Vaduz" }
+    ],
+    "correctKey": "D",
+    "explanation": "Vaduz is the capital and seat of the prince and parliament, though it is not actually the principality's most populous municipality — Schaan is, which makes it the tempting distractor.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["liechtenstein", "microstate"]
+  },
+  {
+    "id": "world-capitals-eu-005",
+    "categoryKey": "europe",
+    "difficulty": 3,
+    "prompt": "What is the capital of Moldova?",
+    "options": [
+      { "key": "A", "text": "Tiraspol" },
+      { "key": "B", "text": "Bălți" },
+      { "key": "C", "text": "Comrat" },
+      { "key": "D", "text": "Chișinău" }
+    ],
+    "correctKey": "D",
+    "explanation": "Chișinău is Moldova's capital and largest city. Tiraspol is the de facto capital of the breakaway region of Transnistria, Bălți is Moldova's second city, and Comrat is the capital of the autonomous region of Gagauzia — all plausible traps.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["moldova"]
+  },
+  {
+    "id": "world-capitals-eu-006",
+    "categoryKey": "europe",
+    "difficulty": 4,
+    "prompt": "The Dutch government, parliament, and Supreme Court all sit in The Hague. Yet which city does the Netherlands' constitution name as the capital?",
+    "options": [
+      { "key": "A", "text": "The Hague" },
+      { "key": "B", "text": "Rotterdam" },
+      { "key": "C", "text": "Amsterdam" },
+      { "key": "D", "text": "Utrecht" }
+    ],
+    "correctKey": "C",
+    "explanation": "Amsterdam is the constitutional capital of the Netherlands, even though the seat of government is The Hague (Den Haag). This split — capital in one city, government in another — is a classic catch. Rotterdam is the largest port and Utrecht a central rail hub.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["netherlands", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-eu-007",
+    "categoryKey": "europe",
+    "difficulty": 4,
+    "prompt": "What is the capital of Kosovo?",
+    "options": [
+      { "key": "A", "text": "Skopje" },
+      { "key": "B", "text": "Pristina" },
+      { "key": "C", "text": "Tirana" },
+      { "key": "D", "text": "Podgorica" }
+    ],
+    "correctKey": "B",
+    "explanation": "Pristina is the capital of Kosovo. Skopje is the capital of North Macedonia, Tirana of Albania, and Podgorica of Montenegro — neighbouring Balkan capitals that are easy to swap if you don't know the region.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["kosovo", "balkans"]
+  },
+  {
+    "id": "world-capitals-eu-008",
+    "categoryKey": "europe",
+    "difficulty": 5,
+    "prompt": "The microstate of San Marino's capital shares the country's name. What is that capital city called?",
+    "options": [
+      { "key": "A", "text": "Serravalle" },
+      { "key": "B", "text": "Borgo Maggiore" },
+      { "key": "C", "text": "City of San Marino" },
+      { "key": "D", "text": "Dogana" }
+    ],
+    "correctKey": "C",
+    "explanation": "The capital is the City of San Marino (Città di San Marino), perched on Monte Titano. Serravalle is actually the republic's most populous municipality, and Borgo Maggiore and Dogana are other settlements — the capital is not the biggest town, which trips people up.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["san-marino", "microstate"]
+  },
+  {
+    "id": "world-capitals-eu-009",
+    "categoryKey": "europe",
+    "difficulty": 3,
+    "prompt": "Which city is the capital of Cyprus, and is the world's last divided capital?",
+    "options": [
+      { "key": "A", "text": "Nicosia" },
+      { "key": "B", "text": "Limassol" },
+      { "key": "C", "text": "Larnaca" },
+      { "key": "D", "text": "Paphos" }
+    ],
+    "correctKey": "A",
+    "explanation": "Nicosia is the capital, split by a UN buffer zone between the Republic of Cyprus and the self-declared Turkish Republic of Northern Cyprus. Limassol, Larnaca, and Paphos are major coastal cities but not the capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["cyprus", "divided-capital"]
+  },
+  {
+    "id": "world-capitals-as-001",
+    "categoryKey": "asia",
+    "difficulty": 2,
+    "prompt": "What is the capital of Kazakhstan?",
+    "options": [
+      { "key": "A", "text": "Almaty" },
+      { "key": "B", "text": "Astana" },
+      { "key": "C", "text": "Bishkek" },
+      { "key": "D", "text": "Tashkent" }
+    ],
+    "correctKey": "B",
+    "explanation": "Astana has been the capital since 1997. It was renamed Nur-Sultan in 2019 to honour the outgoing president, then reverted to Astana in 2022. Almaty is the former capital and largest city. Bishkek (Kyrgyzstan) and Tashkent (Uzbekistan) are other Central Asian capitals.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["kazakhstan", "renamed-capital", "moved-capital"]
+  },
+  {
+    "id": "world-capitals-as-002",
+    "categoryKey": "asia",
+    "difficulty": 3,
+    "prompt": "In 2005 Myanmar (Burma) moved its seat of government to a newly built city. What is that capital?",
+    "options": [
+      { "key": "A", "text": "Yangon" },
+      { "key": "B", "text": "Mandalay" },
+      { "key": "C", "text": "Naypyidaw" },
+      { "key": "D", "text": "Bago" }
+    ],
+    "correctKey": "C",
+    "explanation": "Naypyidaw was purpose-built inland and made the capital in 2005–2006, famous for its enormous, near-empty boulevards. Yangon (formerly Rangoon) was the previous capital and remains the largest city; Mandalay is the cultural centre of the north.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["myanmar", "moved-capital", "planned-capital"]
+  },
+  {
+    "id": "world-capitals-as-003",
+    "categoryKey": "asia",
+    "difficulty": 4,
+    "prompt": "Which city is Sri Lanka's official administrative capital and the seat of its parliament — even though Colombo is the commercial hub?",
+    "options": [
+      { "key": "A", "text": "Colombo" },
+      { "key": "B", "text": "Kandy" },
+      { "key": "C", "text": "Sri Jayawardenepura Kotte" },
+      { "key": "D", "text": "Galle" }
+    ],
+    "correctKey": "C",
+    "explanation": "Sri Jayawardenepura Kotte, a suburb on the edge of Colombo, is the official administrative capital and houses parliament. Colombo remains the largest city and executive/commercial centre, so it is widely (but inaccurately) called the capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["sri-lanka", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-as-004",
+    "categoryKey": "asia",
+    "difficulty": 4,
+    "prompt": "Kuala Lumpur is Malaysia's official capital, but in the 1990s the country built a new city to house the prime minister's office and most ministries. What is that administrative centre?",
+    "options": [
+      { "key": "A", "text": "Putrajaya" },
+      { "key": "B", "text": "Shah Alam" },
+      { "key": "C", "text": "Johor Bahru" },
+      { "key": "D", "text": "Cyberjaya" }
+    ],
+    "correctKey": "A",
+    "explanation": "Putrajaya is Malaysia's purpose-built federal administrative capital, hosting the executive and judiciary; Kuala Lumpur keeps parliament and the monarch. Cyberjaya is the adjacent tech township and the most tempting wrong answer; Shah Alam and Johor Bahru are state capitals.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["malaysia", "planned-capital", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-as-005",
+    "categoryKey": "asia",
+    "difficulty": 3,
+    "prompt": "What is the capital of the United Arab Emirates?",
+    "options": [
+      { "key": "A", "text": "Dubai" },
+      { "key": "B", "text": "Sharjah" },
+      { "key": "C", "text": "Abu Dhabi" },
+      { "key": "D", "text": "Ajman" }
+    ],
+    "correctKey": "C",
+    "explanation": "Abu Dhabi is the capital and the largest emirate by area and oil wealth. Dubai is the most populous and globally famous city, which is why it is so often misremembered as the capital. Sharjah and Ajman are two of the other seven emirates.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["uae", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-as-006",
+    "categoryKey": "asia",
+    "difficulty": 3,
+    "prompt": "What is the capital of Bhutan?",
+    "options": [
+      { "key": "A", "text": "Paro" },
+      { "key": "B", "text": "Thimphu" },
+      { "key": "C", "text": "Punakha" },
+      { "key": "D", "text": "Phuentsholing" }
+    ],
+    "correctKey": "B",
+    "explanation": "Thimphu is Bhutan's capital and largest city, one of the few world capitals without traffic lights. Punakha served as the old capital until 1955, Paro is home to the international airport, and Phuentsholing is the border trade town with India.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["bhutan"]
+  },
+  {
+    "id": "world-capitals-as-007",
+    "categoryKey": "asia",
+    "difficulty": 4,
+    "prompt": "In 2022 Indonesia passed a law to relocate its capital from Jakarta to a new planned city on the island of Borneo. What is the new capital called?",
+    "options": [
+      { "key": "A", "text": "Nusantara" },
+      { "key": "B", "text": "Surabaya" },
+      { "key": "C", "text": "Bandung" },
+      { "key": "D", "text": "Balikpapan" }
+    ],
+    "correctKey": "A",
+    "explanation": "Nusantara, in East Kalimantan on Borneo, was designated Indonesia's new capital to relieve the overcrowded, sinking megacity of Jakarta. Surabaya and Bandung are large cities on Java; Balikpapan is the nearby established Bornean port, not the new capital itself.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["indonesia", "moved-capital", "planned-capital"]
+  },
+  {
+    "id": "world-capitals-as-008",
+    "categoryKey": "asia",
+    "difficulty": 4,
+    "prompt": "What is the capital of Brunei?",
+    "options": [
+      { "key": "A", "text": "Kuala Belait" },
+      { "key": "B", "text": "Bandar Seri Begawan" },
+      { "key": "C", "text": "Seria" },
+      { "key": "D", "text": "Tutong" }
+    ],
+    "correctKey": "B",
+    "explanation": "Bandar Seri Begawan is the capital of the oil-rich sultanate of Brunei on Borneo, home to one of the world's largest residential palaces. Kuala Belait and Seria are centres of the oil industry; Tutong is a district town.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["brunei"]
+  },
+  {
+    "id": "world-capitals-as-009",
+    "categoryKey": "asia",
+    "difficulty": 3,
+    "prompt": "What is the capital of Vietnam?",
+    "options": [
+      { "key": "A", "text": "Ho Chi Minh City" },
+      { "key": "B", "text": "Da Nang" },
+      { "key": "C", "text": "Hue" },
+      { "key": "D", "text": "Hanoi" }
+    ],
+    "correctKey": "D",
+    "explanation": "Hanoi in the north has been the capital of unified Vietnam since 1976. Ho Chi Minh City (formerly Saigon) is larger and the economic engine, which is why it is often mistaken for the capital. Hue was the imperial capital of the Nguyễn dynasty.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["vietnam", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-as-010",
+    "categoryKey": "asia",
+    "difficulty": 5,
+    "prompt": "Which white-marble city, holding a Guinness record for its density of marble buildings, is the capital of Turkmenistan?",
+    "options": [
+      { "key": "A", "text": "Tashkent" },
+      { "key": "B", "text": "Dushanbe" },
+      { "key": "C", "text": "Bishkek" },
+      { "key": "D", "text": "Ashgabat" }
+    ],
+    "correctKey": "D",
+    "explanation": "Ashgabat is Turkmenistan's capital, rebuilt with gleaming white-marble government buildings and gold-domed monuments. Tashkent (Uzbekistan), Dushanbe (Tajikistan), and Bishkek (Kyrgyzstan) are the capitals of the other former-Soviet Central Asian republics.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["turkmenistan", "central-asia"]
+  },
+  {
+    "id": "world-capitals-af-001",
+    "categoryKey": "africa",
+    "difficulty": 4,
+    "prompt": "Which inland city has been the official capital of Tanzania since the 1990s, replacing the coastal commercial hub?",
+    "options": [
+      { "key": "A", "text": "Dodoma" },
+      { "key": "B", "text": "Dar es Salaam" },
+      { "key": "C", "text": "Arusha" },
+      { "key": "D", "text": "Zanzibar City" }
+    ],
+    "correctKey": "A",
+    "explanation": "Dodoma, chosen for its central location, became the official capital with the move of government largely completed by the late 1990s and 2010s. Dar es Salaam remains the largest city and economic centre. Arusha hosts international bodies; Zanzibar City is the capital of the semi-autonomous Zanzibar.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["tanzania", "moved-capital"]
+  },
+  {
+    "id": "world-capitals-af-002",
+    "categoryKey": "africa",
+    "difficulty": 5,
+    "prompt": "Which purpose-built city is the official political capital of Côte d'Ivoire (Ivory Coast), even though Abidjan is the economic centre?",
+    "options": [
+      { "key": "A", "text": "Abidjan" },
+      { "key": "B", "text": "Bouaké" },
+      { "key": "C", "text": "Yamoussoukro" },
+      { "key": "D", "text": "Korhogo" }
+    ],
+    "correctKey": "C",
+    "explanation": "Yamoussoukro, birthplace of founding president Houphouët-Boigny, was made the official capital in 1983 and hosts the vast Basilica of Our Lady of Peace. Abidjan remains the de facto seat of government and largest city, so it is widely assumed to be the capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["cote-divoire", "moved-capital", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-af-003",
+    "categoryKey": "africa",
+    "difficulty": 4,
+    "prompt": "Cotonou is Benin's largest city and seat of government, but which smaller city is its official capital?",
+    "options": [
+      { "key": "A", "text": "Cotonou" },
+      { "key": "B", "text": "Parakou" },
+      { "key": "C", "text": "Abomey" },
+      { "key": "D", "text": "Porto-Novo" }
+    ],
+    "correctKey": "D",
+    "explanation": "Porto-Novo is Benin's official capital and home to the National Assembly, while Cotonou holds the presidency, ministries, and economic activity. Abomey was the historic capital of the Dahomey kingdom; Parakou is the largest northern city.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["benin", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-af-004",
+    "categoryKey": "africa",
+    "difficulty": 4,
+    "prompt": "In 2019 Burundi designated a new political capital inland, demoting its lakeside city to economic capital. What is the new political capital?",
+    "options": [
+      { "key": "A", "text": "Bujumbura" },
+      { "key": "B", "text": "Gitega" },
+      { "key": "C", "text": "Ngozi" },
+      { "key": "D", "text": "Muyinga" }
+    ],
+    "correctKey": "B",
+    "explanation": "Gitega, in the centre of the country, became the political capital in 2019; Bujumbura, on Lake Tanganyika, was demoted to economic capital but is still the largest city. Ngozi and Muyinga are northern provincial towns.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["burundi", "moved-capital", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-af-005",
+    "categoryKey": "africa",
+    "difficulty": 3,
+    "prompt": "Which planned city replaced Lagos as the capital of Nigeria in 1991?",
+    "options": [
+      { "key": "A", "text": "Abuja" },
+      { "key": "B", "text": "Lagos" },
+      { "key": "C", "text": "Kano" },
+      { "key": "D", "text": "Ibadan" }
+    ],
+    "correctKey": "A",
+    "explanation": "Abuja, built in the country's centre for neutrality among ethnic and religious groups, became the capital in 1991. Lagos remains by far the largest city and an economic powerhouse, which is why many still name it as the capital. Kano and Ibadan are other major cities.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["nigeria", "moved-capital", "planned-capital"]
+  },
+  {
+    "id": "world-capitals-af-006",
+    "categoryKey": "africa",
+    "difficulty": 5,
+    "prompt": "South Africa has three capitals. Which city is its judicial capital, home to the Supreme Court of Appeal?",
+    "options": [
+      { "key": "A", "text": "Pretoria" },
+      { "key": "B", "text": "Cape Town" },
+      { "key": "C", "text": "Johannesburg" },
+      { "key": "D", "text": "Bloemfontein" }
+    ],
+    "correctKey": "D",
+    "explanation": "Bloemfontein is the judicial capital. Pretoria is the executive (administrative) capital and Cape Town the legislative capital, where parliament sits. Johannesburg is the largest city and financial centre but is not one of the three official capitals.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["south-africa", "multiple-capitals"]
+  },
+  {
+    "id": "world-capitals-af-007",
+    "categoryKey": "africa",
+    "difficulty": 3,
+    "prompt": "What is the capital of Morocco?",
+    "options": [
+      { "key": "A", "text": "Rabat" },
+      { "key": "B", "text": "Casablanca" },
+      { "key": "C", "text": "Marrakesh" },
+      { "key": "D", "text": "Fez" }
+    ],
+    "correctKey": "A",
+    "explanation": "Rabat is the capital and seat of the monarchy and government. Casablanca is much larger and the economic centre, so it is often guessed instead. Marrakesh and Fez are famous historic imperial cities but are not the current capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["morocco", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-af-008",
+    "categoryKey": "africa",
+    "difficulty": 3,
+    "prompt": "What is the capital of Cameroon?",
+    "options": [
+      { "key": "A", "text": "Douala" },
+      { "key": "B", "text": "Bafoussam" },
+      { "key": "C", "text": "Yaoundé" },
+      { "key": "D", "text": "Bamenda" }
+    ],
+    "correctKey": "C",
+    "explanation": "Yaoundé, in the interior highlands, is Cameroon's capital. Douala is the largest city, main port, and economic capital — the usual wrong guess. Bafoussam and Bamenda are regional centres in the west.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["cameroon", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-af-009",
+    "categoryKey": "africa",
+    "difficulty": 4,
+    "prompt": "What is the capital of Malawi?",
+    "options": [
+      { "key": "A", "text": "Blantyre" },
+      { "key": "B", "text": "Lilongwe" },
+      { "key": "C", "text": "Zomba" },
+      { "key": "D", "text": "Mzuzu" }
+    ],
+    "correctKey": "B",
+    "explanation": "Lilongwe has been the capital since 1975 and is now the largest city. Zomba was the colonial-era capital — the trickiest distractor — while Blantyre is the historic commercial centre. Mzuzu is the main city of the north.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["malawi", "moved-capital"]
+  },
+  {
+    "id": "world-capitals-af-010",
+    "categoryKey": "africa",
+    "difficulty": 5,
+    "prompt": "Eswatini (formerly Swaziland) has two capitals. Which city is its administrative capital?",
+    "options": [
+      { "key": "A", "text": "Lobamba" },
+      { "key": "B", "text": "Manzini" },
+      { "key": "C", "text": "Mbabane" },
+      { "key": "D", "text": "Siteki" }
+    ],
+    "correctKey": "C",
+    "explanation": "Mbabane is the administrative capital. Lobamba is the legislative and royal (spiritual) capital, seat of parliament and the royal residence. Manzini is the largest city and commercial hub; Siteki is a smaller regional town.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["eswatini", "multiple-capitals"]
+  },
+  {
+    "id": "world-capitals-am-001",
+    "categoryKey": "americas",
+    "difficulty": 2,
+    "prompt": "What is the capital of Canada?",
+    "options": [
+      { "key": "A", "text": "Toronto" },
+      { "key": "B", "text": "Ottawa" },
+      { "key": "C", "text": "Vancouver" },
+      { "key": "D", "text": "Montreal" }
+    ],
+    "correctKey": "B",
+    "explanation": "Ottawa, in Ontario on the border with Quebec, was chosen by Queen Victoria in 1857 as a compromise capital. Toronto and Montreal are larger and more famous, and Vancouver is the major Pacific city — none is the capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["canada", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-am-002",
+    "categoryKey": "americas",
+    "difficulty": 3,
+    "prompt": "Which purpose-built city has been the capital of Brazil since 1960?",
+    "options": [
+      { "key": "A", "text": "Rio de Janeiro" },
+      { "key": "B", "text": "São Paulo" },
+      { "key": "C", "text": "Brasília" },
+      { "key": "D", "text": "Salvador" }
+    ],
+    "correctKey": "C",
+    "explanation": "Brasília was built inland from scratch and inaugurated as the capital in 1960 to develop the interior. Rio de Janeiro was the previous capital, São Paulo is the largest city, and Salvador was the original colonial capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["brazil", "moved-capital", "planned-capital"]
+  },
+  {
+    "id": "world-capitals-am-003",
+    "categoryKey": "americas",
+    "difficulty": 4,
+    "prompt": "After a hurricane devastated the coast, Belize moved its capital inland in 1970. What is that capital?",
+    "options": [
+      { "key": "A", "text": "Belmopan" },
+      { "key": "B", "text": "Belize City" },
+      { "key": "C", "text": "San Ignacio" },
+      { "key": "D", "text": "Orange Walk" }
+    ],
+    "correctKey": "A",
+    "explanation": "Belmopan was founded as the new capital after Hurricane Hattie wrecked Belize City in 1961; the move was completed in 1970. Belize City remains the largest city and main port, the usual wrong answer. San Ignacio and Orange Walk are smaller towns.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["belize", "moved-capital", "planned-capital"]
+  },
+  {
+    "id": "world-capitals-am-004",
+    "categoryKey": "americas",
+    "difficulty": 4,
+    "prompt": "Sucre is Bolivia's constitutional capital and judicial seat. Which city, however, is home to the executive and legislative branches?",
+    "options": [
+      { "key": "A", "text": "Sucre" },
+      { "key": "B", "text": "Santa Cruz de la Sierra" },
+      { "key": "C", "text": "Cochabamba" },
+      { "key": "D", "text": "La Paz" }
+    ],
+    "correctKey": "D",
+    "explanation": "La Paz hosts the presidency and the national congress, making it the de facto seat of government, while Sucre keeps the constitutional-capital title and the Supreme Court. Santa Cruz is the largest city by population; Cochabamba sits in the centre of the country.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["bolivia", "multiple-capitals", "capital-vs-seat-of-government"]
+  },
+  {
+    "id": "world-capitals-am-005",
+    "categoryKey": "americas",
+    "difficulty": 5,
+    "prompt": "Chile's government sits in Santiago, but its National Congress was relocated in 1990 to which coastal city?",
+    "options": [
+      { "key": "A", "text": "Santiago" },
+      { "key": "B", "text": "Valparaíso" },
+      { "key": "C", "text": "Concepción" },
+      { "key": "D", "text": "Viña del Mar" }
+    ],
+    "correctKey": "B",
+    "explanation": "Chile's National Congress meets in Valparaíso, a move enacted in 1990, even though Santiago remains the capital and seat of the executive. Viña del Mar is the resort city adjacent to Valparaíso; Concepción is a major southern city.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["chile", "split-legislature"]
+  },
+  {
+    "id": "world-capitals-am-006",
+    "categoryKey": "americas",
+    "difficulty": 3,
+    "prompt": "What is the capital of Ecuador?",
+    "options": [
+      { "key": "A", "text": "Guayaquil" },
+      { "key": "B", "text": "Cuenca" },
+      { "key": "C", "text": "Quito" },
+      { "key": "D", "text": "Manta" }
+    ],
+    "correctKey": "C",
+    "explanation": "Quito, high in the Andes, is the capital and the world's second-highest capital city. Guayaquil is the largest city and main port — the common wrong guess. Cuenca is a colonial highland city and Manta a coastal port.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["ecuador", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-am-007",
+    "categoryKey": "americas",
+    "difficulty": 4,
+    "prompt": "What is the capital of Suriname?",
+    "options": [
+      { "key": "A", "text": "Georgetown" },
+      { "key": "B", "text": "Cayenne" },
+      { "key": "C", "text": "Nieuw Nickerie" },
+      { "key": "D", "text": "Paramaribo" }
+    ],
+    "correctKey": "D",
+    "explanation": "Paramaribo, with its Dutch colonial wooden architecture, is the capital of Suriname. The distractors are the capitals of its neighbours on the Guiana coast: Georgetown is Guyana's capital and Cayenne is the capital of French Guiana. Nieuw Nickerie is a Surinamese district town.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["suriname", "the-guianas"]
+  },
+  {
+    "id": "world-capitals-am-008",
+    "categoryKey": "americas",
+    "difficulty": 4,
+    "prompt": "What is the capital of Honduras?",
+    "options": [
+      { "key": "A", "text": "Tegucigalpa" },
+      { "key": "B", "text": "San Pedro Sula" },
+      { "key": "C", "text": "San Salvador" },
+      { "key": "D", "text": "Comayagua" }
+    ],
+    "correctKey": "A",
+    "explanation": "Tegucigalpa is the capital and largest city of Honduras. San Pedro Sula is the industrial second city; Comayagua was the colonial-era capital. San Salvador belongs to neighbouring El Salvador — an easy slip among Central American capitals.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["honduras", "central-america"]
+  },
+  {
+    "id": "world-capitals-am-009",
+    "categoryKey": "americas",
+    "difficulty": 3,
+    "prompt": "What is the capital of the Bahamas?",
+    "options": [
+      { "key": "A", "text": "Freeport" },
+      { "key": "B", "text": "Bridgetown" },
+      { "key": "C", "text": "Nassau" },
+      { "key": "D", "text": "George Town" }
+    ],
+    "correctKey": "C",
+    "explanation": "Nassau, on New Providence island, is the capital of the Bahamas. Freeport on Grand Bahama is the second city. Bridgetown is the capital of Barbados, and George Town is the capital of the Cayman Islands — nearby Caribbean traps.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["bahamas", "caribbean"]
+  },
+  {
+    "id": "world-capitals-am-010",
+    "categoryKey": "americas",
+    "difficulty": 5,
+    "prompt": "What is the capital of the twin-island federation of Saint Kitts and Nevis?",
+    "options": [
+      { "key": "A", "text": "Basseterre" },
+      { "key": "B", "text": "Charlestown" },
+      { "key": "C", "text": "Castries" },
+      { "key": "D", "text": "Roseau" }
+    ],
+    "correctKey": "A",
+    "explanation": "Basseterre, on the island of Saint Kitts, is the federal capital. Charlestown is the main town of Nevis. Castries (Saint Lucia) and Roseau (Dominica) are capitals of other Eastern Caribbean states — all easy to confuse.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["saint-kitts-and-nevis", "caribbean"]
+  },
+  {
+    "id": "world-capitals-oc-001",
+    "categoryKey": "oceania",
+    "difficulty": 2,
+    "prompt": "What is the capital of Australia?",
+    "options": [
+      { "key": "A", "text": "Sydney" },
+      { "key": "B", "text": "Melbourne" },
+      { "key": "C", "text": "Canberra" },
+      { "key": "D", "text": "Brisbane" }
+    ],
+    "correctKey": "C",
+    "explanation": "Canberra was purpose-built as a compromise capital between rivals Sydney and Melbourne, and became the seat of government in 1927. Sydney and Melbourne are the two largest cities and the perennial wrong answers; Brisbane is the Queensland capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["australia", "planned-capital", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-oc-002",
+    "categoryKey": "oceania",
+    "difficulty": 3,
+    "prompt": "What is the capital of New Zealand?",
+    "options": [
+      { "key": "A", "text": "Auckland" },
+      { "key": "B", "text": "Wellington" },
+      { "key": "C", "text": "Christchurch" },
+      { "key": "D", "text": "Hamilton" }
+    ],
+    "correctKey": "B",
+    "explanation": "Wellington, at the southern tip of the North Island, is the capital and the world's southernmost capital of a sovereign state. Auckland is far larger and the usual wrong guess; Christchurch is the largest South Island city.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["new-zealand", "confused-with-largest-city"]
+  },
+  {
+    "id": "world-capitals-oc-003",
+    "categoryKey": "oceania",
+    "difficulty": 5,
+    "prompt": "Which tiny settlement is the capital of Palau, having replaced Koror in 2006?",
+    "options": [
+      { "key": "A", "text": "Koror" },
+      { "key": "B", "text": "Melekeok" },
+      { "key": "C", "text": "Airai" },
+      { "key": "D", "text": "Ngerulmud" }
+    ],
+    "correctKey": "D",
+    "explanation": "Ngerulmud, a purpose-built capital in Melekeok State on the island of Babeldaob, became Palau's seat of government in 2006 — one of the least populous national capitals on Earth. Koror is the former capital and largest town; people often answer \"Melekeok\" (the state) by mistake.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["palau", "moved-capital", "planned-capital"]
+  },
+  {
+    "id": "world-capitals-oc-004",
+    "categoryKey": "oceania",
+    "difficulty": 5,
+    "prompt": "What is the capital of the Federated States of Micronesia?",
+    "options": [
+      { "key": "A", "text": "Kolonia" },
+      { "key": "B", "text": "Weno" },
+      { "key": "C", "text": "Palikir" },
+      { "key": "D", "text": "Colonia" }
+    ],
+    "correctKey": "C",
+    "explanation": "Palikir, on the island of Pohnpei, became the capital in 1989. Kolonia, also on Pohnpei, was the former capital — the most tempting distractor. Weno (Chuuk) is the largest town, and Colonia is the capital of Yap State, not the nation.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["micronesia", "moved-capital"]
+  },
+  {
+    "id": "world-capitals-oc-005",
+    "categoryKey": "oceania",
+    "difficulty": 4,
+    "prompt": "Nauru has no official capital, but which district is the de facto seat of government, hosting parliament?",
+    "options": [
+      { "key": "A", "text": "Yaren" },
+      { "key": "B", "text": "Aiwo" },
+      { "key": "C", "text": "Denigomodu" },
+      { "key": "D", "text": "Meneng" }
+    ],
+    "correctKey": "A",
+    "explanation": "Nauru, one of the world's smallest states, has no legally designated capital; Yaren District is the de facto capital because it houses parliament and government offices. Aiwo, Denigomodu, and Meneng are other districts of the island.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["nauru", "no-official-capital"]
+  },
+  {
+    "id": "world-capitals-oc-006",
+    "categoryKey": "oceania",
+    "difficulty": 4,
+    "prompt": "What is the capital of Kiribati?",
+    "options": [
+      { "key": "A", "text": "Funafuti" },
+      { "key": "B", "text": "Tarawa" },
+      { "key": "C", "text": "Honiara" },
+      { "key": "D", "text": "Bairiki" }
+    ],
+    "correctKey": "B",
+    "explanation": "South Tarawa is the capital atoll of Kiribati, with government offices spread across islets including Bairiki. Funafuti is the capital of neighbouring Tuvalu and Honiara is the capital of the Solomon Islands — both easy Pacific mix-ups. Bairiki is only a part of Tarawa, not the named capital.",
+    "source": "generated",
+    "reviewStatus": "draft",
+    "tags": ["kiribati", "pacific"]
+  }
+]

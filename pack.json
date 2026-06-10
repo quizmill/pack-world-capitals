@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "world-capitals",
+  "title": "Capitals of the World",
+  "description": "Expert-level practice on the capital cities of the world — moved capitals, multiple-capital countries, and the ones map buffs reliably get wrong.",
+  "homeSubtitle": "From Astana to Yamoussoukro — the capitals even map buffs get wrong.",
+  "themeColor": "#1e40af",
+  "categories": [
+    { "key": "europe", "label": "Europe", "shortLabel": "Europe", "weight": 0.2 },
+    { "key": "asia", "label": "Asia", "shortLabel": "Asia", "weight": 0.22 },
+    { "key": "africa", "label": "Africa", "shortLabel": "Africa", "weight": 0.22 },
+    { "key": "americas", "label": "The Americas", "shortLabel": "Americas", "weight": 0.22 },
+    { "key": "oceania", "label": "Oceania", "shortLabel": "Oceania", "weight": 0.14 }
+  ]
+}
